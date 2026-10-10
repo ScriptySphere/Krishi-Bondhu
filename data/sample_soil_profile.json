@@ -1,0 +1,47 @@
+{
+  "location_id": "40.7128,-74.0060",
+  "layers": [
+    {
+      "depth_top": 0,
+      "depth_bottom": 20,
+      "texture": "loam",
+      "organic_carbon": 2.8,
+      "ph": 6.5,
+      "bulk_density": 1.30,
+      "nitrogen": 0.18,
+      "phosphorus": 30,
+      "potassium": 200,
+      "cec": 22,
+      "available_water_capacity": 0.22
+    },
+    {
+      "depth_top": 20,
+      "depth_bottom": 50,
+      "texture": "clay_loam",
+      "organic_carbon": 1.5,
+      "ph": 6.7,
+      "bulk_density": 1.40,
+      "nitrogen": 0.10,
+      "phosphorus": 20,
+      "potassium": 180,
+      "cec": 25,
+      "available_water_capacity": 0.20
+    },
+    {
+      "depth_top": 50,
+      "depth_bottom": 100,
+      "texture": "clay",
+      "organic_carbon": 0.6,
+      "ph": 7.0,
+      "bulk_density": 1.50,
+      "nitrogen": 0.04,
+      "phosphorus": 10,
+      "potassium": 150,
+      "cec": 30,
+      "available_water_capacity": 0.18
+    }
+  ],
+  "drainage_class": "well_drained",
+  "taxonomic_class": "Typic Hapludalf",
+  "source": "soil_survey"
+}
